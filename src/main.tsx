@@ -14,15 +14,15 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
       <Routes>
         <Route path='/' errorElement={<Error />} element={<Root />}>
           <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/login" element={<Login />} />
-          <Route path="/profile" element={<Profile />} />
+          <Route path="about" element={<About />} />
+          <Route path="contact" element={<Contact />} />
+          <Route path="login" element={<Login />} />
+          <Route path="profile" element={<Profile />} />
+          <Route path="projects" element={<Projects />} />
         </Route>
         <Route path="/verified" errorElement={<Error />} element={<Verified />}>
           <Route path="students" element={<Students />} />
           <Route path="workshops" element={<Workshops />} />
-          <Route path="projects" element={<Projects />} />
         </Route>
       </Routes>
     </BrowserRouter>

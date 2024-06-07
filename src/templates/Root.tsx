@@ -4,11 +4,15 @@ import { Navigation, Footer } from "../components/components.ts";
 
 const Root = () => {
     return (
-        <div>
+        <div className="min-h-screen flex flex-col">
             <Navigation />
-            <Outlet />
-            <Footer />
-        </div >
+            <div className="flex-1">
+                <Outlet />
+            </div>
+            <div className="my-auto">
+                <Footer />
+            </div>
+        </div>
     )
 }
 
