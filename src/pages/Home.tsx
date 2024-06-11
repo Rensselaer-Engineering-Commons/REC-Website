@@ -54,11 +54,13 @@ const Home = () => {
                     <MainSection>
                         <Title>Our Mission</Title>
                         <Information>
-                            The Rensselaer Engineering Commons is a community of students, faculty, and staff dedicated to
-                            creating a welcoming and inclusive environment for all. We believe that diversity and inclusion
-                            are essential to the success of our community and our mission. We are committed to fostering a
-                            culture of respect, empathy, and understanding, and to providing resources and support to help
-                            all members of our community thrive.
+                            Our mission is to inspire creativity through the power of simplicity. 
+                            By embracing minimalist design, user-centric innovation, and a collaborative DIY spirit, 
+                            we aim to create cool stuff that not only delights but also solves real-world problems. 
+                            We believe in the transformative power of iterative improvement, cross-disciplinary inspiration, 
+                            and sustainable solutions. Our mission is to embrace imperfection, foster collaboration, 
+                            and make a positive impact on the world through our creative endeavors. Join us as we embark on a 
+                            journey to create cool sh*t that inspires, innovates, and leaves a lasting legacy of creativity.
                         </Information>
                     </MainSection>
                 </div>
