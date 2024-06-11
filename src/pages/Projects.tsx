@@ -1,5 +1,3 @@
-import { Title, MainSection, Information } from '../components/components.ts'
-
 const Projects = () => {
     return (
         <div>
