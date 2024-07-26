@@ -36,7 +36,7 @@ const Footer = () => {
                         <div>
                             <h3 className="text-xl">Social Media</h3>
                             <div className="flex flex-col mt-5 gap-4">
-                                <a href="https://discord.gg/TKBGYmZEQb" target="_blank">
+                                <a href="https://discord.gg/9hBEKMQbpw" target="_blank">
                                     <figure className="max-w-32">
                                         <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0b5493894cf60b300587_full_logo_white_RGB.svg" alt="" />
                                     </figure>

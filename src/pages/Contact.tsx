@@ -20,7 +20,7 @@ const Contact = () => {
                             Join our vibrant Discord community to connect with like-minded individuals, 
                             share ideas, and collaborate on creative projects. Whether you're a seasoned 
                             creator or just starting out, everyone is welcome! <a className="text-blue-700" target="_blank"
-                             href="https://discord.gg/TKBGYmZEQb">Click here</a> to join our Discord server.
+                             href="https://discord.gg/9hBEKMQbpw">Click here</a> to join our Discord server.
                         </Information>
                     </MainSection>
                 </div>
